@@ -1,3 +1,3 @@
 #!/bin/bash
 
-frida  -F -l ./frida-agent/_agent.js
+frida -U -F -l ./frida-agent/_agent.js
